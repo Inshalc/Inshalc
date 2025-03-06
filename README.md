@@ -1,10 +1,5 @@
-## Hi there 👋
-
-<!--
-**Inshalc/Inshalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+ Hi there 👋
+ 
 - 🔭 I’m currently working on projects with AI and fullStack applications
 - 🔭 I’m Studying Software Engineering
 
@@ -21,4 +16,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=Inshalc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
