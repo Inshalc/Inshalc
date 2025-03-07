@@ -1,7 +1,7 @@
  Hi there 👋
- 
+
+- 🔭 Software Engineering Student 
 - 🔭 I’m currently working on projects with AI and fullStack applications
-- 🔭 I’m Studying Software Engineering
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/inch4958) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inshal-chauhdry-a12737300/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Chaudhryinshal@gmail.com) 
